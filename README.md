@@ -8,4 +8,4 @@ This Tableau Dashboard visualizes global weather temperature trends over time, o
 	•	Seasonal Temperature Analysis: Interactive charts show seasonal variations by region and year, helping users understand long-term weather patterns.
 	•	Butterfly Chart Comparison: A side-by-side comparison of the oldest and newest years in the dataset, making it easy to observe shifts in temperature over time.
 
-Check out the attached MP4 video for a walkthrough of the dashboard’s features and how to interact with the visualizations.
+Check out the attached MP4 video by clicking "View Raw" for a walkthrough of the dashboard’s features and how to interact with the visualizations.
